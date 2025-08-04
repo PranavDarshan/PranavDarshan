@@ -1,7 +1,7 @@
 # Hi there, I'm Pranav Darshan! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;AI%2FML+Enthusiast;Cloud+Developer;Published+Researcher;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;AI%2FML+Enthusiast;Cloud+Developer;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -38,67 +38,10 @@ I'm a Computer Science Engineering student at **RV College of Engineering** with
 
 </div>
 
-## 🎯 Featured Projects
-
-### 🤖 AI-Powered Handwritten Exam Script Evaluation
-**Technologies**: LLaMA2, RAG, AWS SageMaker, Lambda, Computer Vision  
-- Built automated evaluation system using fine-tuned LLaMA2 model
-- Developed RAG pipeline for contextual textbook reference retrieval
-- Deployed on AWS with serverless architecture
-- **Published**: IEEE paper at CSITSS 2024
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PranavDarshan/AutoGrader)
-
-### 🏠 NASGuard-HomeServer
-**Technologies**: WireGuard VPN, Samba, AdGuard, IPv6  
-- Secure NAS solution for IPv6-only servers
-- Bridged IPv4-IPv6 connectivity through encrypted VPN tunneling
-- Integrated network-wide ad blocking and DNS filtering
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PranavDarshan/NASGuard-v6-Home-Server)
-
-## 💼 Professional Experience
-
-<table>
-<tr>
-<td width="50%">
-
-**🚗 WIRIN (Wipro IISc Innovation Network)**  
-*Project Intern | Feb 2024 - Present*
-- 360° LiDAR Transformation Equivariance Detection
-- Ouster OS0 sensor processing for autonomous vehicles
-- Indian dataset training for vehicle classification
-
-</td>
-<td width="50%">
-
-**🖥️ Hewlett Packard Enterprise**  
-*CPP Project Intern | Feb 2025 - Jul 2025*
-- Redfish API Emulator enhancement
-- RAID volume management systems
-- Enterprise server management solutions
-
-</td>
-</tr>
-</table>
-
-## 🏆 Achievements & Recognition
-
-<div align="center">
-
-| 🏅 Award | 🏢 Organization | 📅 Date |
-|----------|-----------------|---------|
-| **Award of Merit** | The Open Group - INITIATE EA 2025 | Jul 2025 |
-| **1st Place Hackathon** | IEEE ComSoc & Intel "AI in Education" | Jun 2024 |
-| **AWS Cloud Practitioner** | Amazon Web Services | 2025-2028 |
-| **IEEE Publication** | CSITSS 2024 - LLM & RAG Research | 2024 |
-
-</div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PranavDarshan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavDarshan&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
@@ -122,7 +65,6 @@ I'm a Computer Science Engineering student at **RV College of Engineering** with
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-darshan/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavdarshan.cs22@rvce.edu.in)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PranavDarshan)
 
 </div>
