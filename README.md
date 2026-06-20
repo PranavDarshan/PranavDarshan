@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science Engineering student at **RV College of Engineering** with a passion for building innovative solutions that bridge AI/ML with enterprise systems. Currently maintaining a **9.67/10 CGPA** and actively contributing to cutting-edge research and development.
+I'm a Computer Science Engineering student at **RV College of Engineering** with a passion for building innovative solutions that bridge AI/ML with enterprise systems. Currently maintaining a **9.66/10 CGPA** and actively contributing to cutting-edge research and development.
 
 - 🔬 **Research**: Published IEEE paper on LLM and RAG for automated evaluation systems
 - 🏆 **Achievements**: Award of Merit winner at INITIATE EA 2025, 1st Place IEEE Hackathon
