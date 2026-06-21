@@ -52,7 +52,7 @@ I'm a Computer Science Engineering student at **RV College of Engineering** with
 
 **Bachelor of Engineering - Computer Science**  
 *RV College of Engineering* | Dec 2022 - 2026  
-**CGPA**: 9.67/10
+**CGPA**: 9.66/10
 
 ## 📝 Latest Research
 
