@@ -33,13 +33,15 @@ I enjoy building end-to-end systems, investigating how machine learning models b
 - Investigates why sampling consistency can reveal some hallucinations while concealing others.
 - Characterizes different hallucination detectability regimes, including consistently incorrect and inconsistent model responses.
 
-**The Temporal Tug-of-War: Visualizing and Detecting RAG Conflicts in Diffusion Models via Trajectory Variance**  
+**The Temporal Tug-of-War: Visualizing and Detecting RAG Conflicts in Diffusion Models via Trajectory Variance**  -- [Link](https://github.com/PranavDarshan/temporal-tug-of-war_)
+
 *Accepted at UncertaiNLP Workshop, EMNLP 2026*
 
 - Investigates conflicts between parametric knowledge and retrieved evidence in diffusion language models.
 - Introduces Trajectory Variance Score (TVS) to study semantic divergence across independent denoising trajectories.
 
-**Leveraging LLM and RAG for Automated Answer Script Evaluation**  
+**Leveraging LLM and RAG for Automated Answer Script Evaluation**  -- [Link](https://github.com/PranavDarshan/AutoGrader)
+
 *IEEE CSITSS 2024 | IEEE Xplore*
 
 - Explores the application of large language models and retrieval-augmented generation for automated educational assessment.
